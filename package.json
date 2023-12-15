@@ -17,9 +17,9 @@
     "prettier": "1.19.1"
   },
   "dependencies": {
-    "html": "^1.0.0",
     "html-literal": "^1.1.0",
-    "literal": "^0.0.1",
+    "lodash": "^4.17.21",
+    "navigo": "^8.11.1",
     "parcel": "^2.10.3"
   }
 }
